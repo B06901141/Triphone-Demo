@@ -2,7 +2,7 @@
 
 | data                                                         | label                                                        | result                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [DRL_Lecture_1_-_Policy_Gradient_(Review)-78](./dev/DRL_Lecture_1_-_Policy_Gradient_(Review)-78.wav) | 比如說 70% 會走 left，20% 走 right，10% 開火，等等           | 這個 其實 在 回頭 MAX 本身 這種 翻譯 是 存在 呢 開火 那 的 對應 的 那 |
+| [DRL_Lecture_1_-_Policy_Gradient_(Review)-78](/dev/DRL_Lecture_1_-_Policy_Gradient_(Review)-78.wav) | 比如說 70% 會走 left，20% 走 right，10% 開火，等等           | 這個 其實 在 回頭 MAX 本身 這種 翻譯 是 存在 呢 開火 那 的 對應 的 那 |
 | [DRL_Lecture_2_-__Proximal_Policy_Optimization_(PPO)-78](./dev/DRL_Lecture_2_-__Proximal_Policy_Optimization_(PPO)-78.wav) | sample data                                                  | SAMPLE DATA                                                  |
 | [DRL_Lecture_3_-_Q-learning_(Basic_Idea)-78](./dev/DRL_Lecture_3_-_Q-learning_(Basic_Idea)-78.wav) | 但是因為實際上，你當然不可能把所有的 state 通通都掃過        | 因為 實際上 你 當然 不 可能 把 所有 的 STATE 甚麼 山坡       |
 | [DRL_Lecture_3_-_Q-learning_(Basic_Idea)-780](./dev/DRL_Lecture_3_-_Q-learning_(Basic_Idea)-780.wav) | 那在每一個 episode，就你拿你的 agent                         | 每 一個 EPISODE TRAINING 那 你 的 AGENT                      |
