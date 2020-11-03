@@ -62,18 +62,18 @@
 | [GAN_Lecture_4_(2018)_-_Basic_Theory-788](./dev/GAN_Lecture_4_(2018)_-_Basic_Theory-788.wav) | 你就不能夠一次 update 太多                                   | 你 就 不 能夠 是 它 K 太 多                                  |
 | [GAN_Lecture_4_(2018)_-_Basic_Theory-789](./dev/GAN_Lecture_4_(2018)_-_Basic_Theory-789.wav) | 但是在 train discriminator 的時候，理論上應該把它 train 到底 | 但是 在 TRAINING 的 DISTRIBUTION 一個 的 時候 理論 上 不該 把 它 TRAIN 好 |
 | [GAN_Lecture_5_(2018)_-_General_Framework-78](./dev/GAN_Lecture_5_(2018)_-_General_Framework-78.wav) | 叫做 f *，就每一個 f 他都有一個對應的夥伴，叫做 f*           | 叫做 X 它 的 每 一個 X 它 對 有 幾個 最新 的 不 把 叫做 X BAR |
-| [GAN_Lecture_6_(2018)_-_WGAN                                 | _EBGAN-78](./dev/GAN_Lecture_6_(2018)_-_WGAN                 | _EBGAN-78.wav)                                               |
-| [GAN_Lecture_6_(2018)_-_WGAN                                 | _EBGAN-780](./dev/GAN_Lecture_6_(2018)_-_WGAN                | _EBGAN-780.wav)                                              |
-| [GAN_Lecture_6_(2018)_-_WGAN                                 | _EBGAN-781](./dev/GAN_Lecture_6_(2018)_-_WGAN                | _EBGAN-781.wav)                                              |
-| [GAN_Lecture_6_(2018)_-_WGAN                                 | _EBGAN-782](./dev/GAN_Lecture_6_(2018)_-_WGAN                | _EBGAN-782.wav)                                              |
-| [GAN_Lecture_6_(2018)_-_WGAN                                 | _EBGAN-783](./dev/GAN_Lecture_6_(2018)_-_WGAN                | _EBGAN-783.wav)                                              |
-| [GAN_Lecture_6_(2018)_-_WGAN                                 | _EBGAN-784](./dev/GAN_Lecture_6_(2018)_-_WGAN                | _EBGAN-784.wav)                                              |
-| [GAN_Lecture_6_(2018)_-_WGAN                                 | _EBGAN-785](./dev/GAN_Lecture_6_(2018)_-_WGAN                | _EBGAN-785.wav)                                              |
-| [GAN_Lecture_6_(2018)_-_WGAN                                 | _EBGAN-786](./dev/GAN_Lecture_6_(2018)_-_WGAN                | _EBGAN-786.wav)                                              |
-| [GAN_Lecture_6_(2018)_-_WGAN                                 | _EBGAN-787](./dev/GAN_Lecture_6_(2018)_-_WGAN                | _EBGAN-787.wav)                                              |
-| [GAN_Lecture_6_(2018)_-_WGAN                                 | _EBGAN-788](./dev/GAN_Lecture_6_(2018)_-_WGAN                | _EBGAN-788.wav)                                              |
-| [GAN_Lecture_6_(2018)_-_WGAN                                 | _EBGAN-789](./dev/GAN_Lecture_6_(2018)_-_WGAN                | _EBGAN-789.wav)                                              |
-| [GAN_Lecture_7_(2018)_-_Info_GAN                             | _VAE-GAN                                                     | _BiGAN-78](./dev/GAN_Lecture_7_(2018)_-_Info_GAN             |
+| [GAN_Lecture_6_(2018)_-_WGAN,_EBGAN-78](./dev/GAN_Lecture_6_(2018)_-_WGAN,_EBGAN-78.wav) | 因為對他來說 PG0 跟 PG1 是一樣差的，所以你根本沒有辦法把 PG0 update 到 PG1 | 對 這個 東西 全部 合 起來 是 比較 大 的 是 根本 沒有 辦法 平均 比較 快 |
+| [GAN_Lecture_6_(2018)_-_WGAN,_EBGAN-780](./dev/GAN_Lecture_6_(2018)_-_WGAN,_EBGAN-780.wav) | 所以如果你今天是用 energy base GAN，你會發現說你前面幾個 epoch | 所以 如果 你 今天 是 ENERGY BASED 的 方法 來 做 你 前面 七個 DATA |
+| [GAN_Lecture_6_(2018)_-_WGAN,_EBGAN-781](./dev/GAN_Lecture_6_(2018)_-_WGAN,_EBGAN-781.wav) | 你就可以還蠻清楚的 image                                     | 就 可以 產生 還有 清楚 的 IMAGE                              |
+| [GAN_Lecture_6_(2018)_-_WGAN,_EBGAN-782](./dev/GAN_Lecture_6_(2018)_-_WGAN,_EBGAN-782.wav) | 那這個就是 energy base GAN 一個厲害的地方                    | 那 這個 就是 ENERGY BASED 覺得 你 跟 其他 的 地方            |
+| [GAN_Lecture_6_(2018)_-_WGAN,_EBGAN-783](./dev/GAN_Lecture_6_(2018)_-_WGAN,_EBGAN-783.wav) | 那 energy based GAN 實際上在 train 的時候，還有一個細節你是要注意的，就是 | 那個 幾個 HIDDEN LAYER TRAIN 的 時候 BIAS 機率 叫做 你 的 就是 |
+| [GAN_Lecture_6_(2018)_-_WGAN,_EBGAN-784](./dev/GAN_Lecture_6_(2018)_-_WGAN,_EBGAN-784.wav) | 今天在 train energy based GAN 的時候，你要讓 real 的 example 它得到的分數越大越好 | 今天 在 這個 ACTION BASE GAN 的 時候 要 把 所有 的 EXAMPLE 它 得到 的 分數 越大越 好 |
+| [GAN_Lecture_6_(2018)_-_WGAN,_EBGAN-785](./dev/GAN_Lecture_6_(2018)_-_WGAN,_EBGAN-785.wav) | 也就是 real example 它的 reconstruction error 越小越好       | 你 就 沒有 你 SAMPLE 它 的 RECONSTRUCTION ERROR 越小越 好    |
+| [GAN_Lecture_6_(2018)_-_WGAN,_EBGAN-786](./dev/GAN_Lecture_6_(2018)_-_WGAN,_EBGAN-786.wav) | 但是要注意你並不是要讓 generated 的 example 它的分數越小越好 | 那 怎麼 處理 你 並 不是 要 讓 GENERATIVE 的 EXAMPLE 它 的 分數 越小越 好 |
+| [GAN_Lecture_6_(2018)_-_WGAN,_EBGAN-787](./dev/GAN_Lecture_6_(2018)_-_WGAN,_EBGAN-787.wav) | 或它的 reconstruction error 越大越好，為什麼？               | 過程 RECONSTRUCTION ERROR 變大 好 沒什麼                     |
+| [GAN_Lecture_6_(2018)_-_WGAN,_EBGAN-788](./dev/GAN_Lecture_6_(2018)_-_WGAN,_EBGAN-788.wav) | 因為建設是比較難的破壞是比較容易的                           | 你 會 解釋 呢 是 比較 大 的 崩壞 是 比較 容易 的             |
+| [GAN_Lecture_6_(2018)_-_WGAN,_EBGAN-789](./dev/GAN_Lecture_6_(2018)_-_WGAN,_EBGAN-789.wav) | reconstruction error 要讓它變小很難，因為                    | RECONSTRUCTION ERROR 叫 它 變小 很難 裡面                    |
+| [GAN_Lecture_7_(2018)_-_Info_GAN,_VAE-GAN,_BiGAN-78](./dev/GAN_Lecture_7_(2018)_-_Info_GAN,_VAE-GAN,_BiGAN-78.wav) | 所以這邊一定要有一個 discriminator                           | 這個 你加 了 不同 的 WEIGHT                                  |
 | [GAN_Lecture_8_(2018)_-_Photo_Editing-78](./dev/GAN_Lecture_8_(2018)_-_Photo_Editing-78.wav) | 這些是長髮的人臉                                             | 這些 是 相反 的 概念                                         |
 | [GAN_Lecture_9_(2018)_-_Sequence_Generation-78](./dev/GAN_Lecture_9_(2018)_-_Sequence_Generation-78.wav) | 但是如果從我們 training 的 criteria 來看                     | 但是 如果 它們 的 TRAINING 的 CRITERIA 來看                  |
 | [GAN_Lecture_9_(2018)_-_Sequence_Generation-780](./dev/GAN_Lecture_9_(2018)_-_Sequence_Generation-780.wav) | 你把裡面的參數做一下小小的變化                               | 你 把 裡面 的 參數 做 小小的 變化                            |
